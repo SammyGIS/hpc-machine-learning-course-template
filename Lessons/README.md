@@ -1,4 +1,13 @@
-# Info about the exercise and demo dir
+# Info about the Lessons
+## [1. Introduction to Machine Learning](/Lessons/1.%20Introduction%20to%20Machine%20Learning/Intro_to_Machine_Learning.ipynb)
+## 2. Data Exploration & Analysis
+## 3. Feature Engineering
+## 4. Random Forest for Prediction
+## 5. Model Validation & Tuning
+## 6. Introduction to CNN with Keras & TensorFlow
+## 7. Accuracy and Evaluation
+
+
 
 To get the materials: 
 
