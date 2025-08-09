@@ -41,14 +41,13 @@ cd your-repo
 pip install -r requirements.txt
 
 # Build HTML output
-sphinx-build -b html ./source ./build
+sphinx-build -b html ./source ./docs
 ````
 
 To preview the generated site in your browser:
 
 ```bash
-python -m http.server --directory ./build
-```
+python -m http.server --directory ./docs
 
 Then open in your browser:
 

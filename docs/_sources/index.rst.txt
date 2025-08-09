@@ -189,37 +189,44 @@ Content of the course
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 1  (intro to machine learning):
+
    Lessons/1.Introduction_to_Machine_Learning/intro_to_machine_learning.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 2  (data exploration and analytics):
-   Lessons\2.Data_Exploration_and_Analytics\data_exploration.md
+
+   Lessons/2.Data_Exploration_and_Analytics/data_exploration.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 3  (feature enginerring):
-   Lessons\3.Feature_Engineering\feature_enginerring.md
+
+   Lessons/3.Feature_Engineering/feature_enginerring.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 4  (random forest machine learning):
-   Lessons\4.Random_Forest_for_Prediction\random_forest_for_prediction.md
+
+   Lessons/4.Random_Forest_for_Prediction/random_forest_for_prediction.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 5  (model tuning and and validation):
-   Lessons\5.Model_Validation_and_Tuning\model_tuning and_validation.md
+
+   Lessons/5.Model_Validation_and_Tuning/model_tuning and_validation.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 6  (intro to cnn):
-   Lessons\6.Introduction_to_CNN_with_Keras_and_TensorFlow\introduction_to_cnn.md
+
+   Lessons/6.Introduction_to_CNN_with_Keras_and_TensorFlow/introduction_to_cnn.md
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Lessons 7  (model evaluation and validation):
+
    Lessons/7.Accuracy_and_Evaluation/model_accuracy_and_evaluation.md
 
 
