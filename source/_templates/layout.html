@@ -1,0 +1,12 @@
+
+{% extends "!layout.html" %}
+
+{% block rootrellink %}
+    <a href="{{ pathto(master_doc) }}" class="icon icon-home">
+        HPC Machine Learning Course
+        <img src="{{ pathto('_static/hpc2n-lunarc-uppmax-hpc-course.png', 1) }}" 
+             class="logo" 
+             alt="Logo">
+    </a>
+    {{ super() }}
+{% endblock %}
